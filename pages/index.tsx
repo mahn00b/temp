@@ -62,7 +62,7 @@ export default function Index() {
           confirm: false
         })
   }
-  console.log(confirm, complete)
+
   return (
       <div >
         {
